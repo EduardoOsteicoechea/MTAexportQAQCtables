@@ -1,0 +1,11 @@
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\bin\Debug\MTAScheduleExporter.dll
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\bin\Debug\MTAScheduleExporter.pdb
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\obj\Debug\MTAScheduleExporter.csproj.AssemblyReference.cache
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\obj\Debug\MTAScheduleExporter.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\obj\Debug\MTAScheduleExporter.dll
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\obj\Debug\MTAScheduleExporter.pdb
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\obj\Debug\DataBlockVisualizer.g.cs
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\obj\Debug\MTAScheduleExporter_MarkupCompile.cache
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\obj\Debug\MTAScheduleExporter_MarkupCompile.lref
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\obj\Debug\DataBlockVisualizer.baml
+C:\Users\eduar\Downloads\AvantLeap\MTA_avantLeap\Development\MTAScheduleExporter\MTAScheduleExporter\obj\Debug\MTAScheduleExporter.g.resources
